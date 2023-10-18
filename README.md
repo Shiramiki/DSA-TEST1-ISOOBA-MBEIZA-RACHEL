@@ -17,11 +17,11 @@
 
  ## Step 3
 
- Defined the  function martyr_count at the begining of the code that accepts thre arguments being the two lists and the new name and checks whetheter the new name is found in either lists and out puts the results.
+ Defined the  function martyr_count at the begining of the code that accepts thre arguments being the two lists and the new name and checks whetheter the new name is found in either lists and out puts the results. It uses If statements to determine this. 
 
  ## Step 4
 
- I create a function called is_uganda_martyr and used it to accept 3 arguments the new name andthe two lists and check if the new name is in both lists and reture whether this is true ir false
+ I create a function called is_uganda_martyr and used it to accept 3 arguments the new name and the two lists and checks if the new name is in both lists and returns whether this is true ir false
 
  ## Step 5
 Then I print the returned values from both functions.
